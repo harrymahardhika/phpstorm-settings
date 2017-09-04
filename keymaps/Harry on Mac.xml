@@ -1,7 +1,8 @@
-<keymap version="1" name="Harry" parent="Default for XWin">
+<keymap version="1" name="Harry on Mac" parent="Default for XWin">
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -35,10 +36,12 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
