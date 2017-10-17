@@ -2,7 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/BSGI/web/database/migrations/2017_10_10_085740_create_products_table.php" timestamp="1508231011470">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
