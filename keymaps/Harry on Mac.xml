@@ -29,6 +29,9 @@
   </action>
   <action id="GotoLine" />
   <action id="IntroduceConstant" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
