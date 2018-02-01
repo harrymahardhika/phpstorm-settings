@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d18899e6-0f47-44ae-b1ad-8e9b48952c97" name="mak" url="http://103.247.15.185">
+        <fileTransfer host="103.247.15.185" port="9016" rootFolder="/home/admins/www/attendance-system" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="9016" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
