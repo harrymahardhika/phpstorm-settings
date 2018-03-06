@@ -6,18 +6,23 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -27,12 +32,19 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -49,4 +61,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
