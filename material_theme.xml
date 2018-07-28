@@ -3,7 +3,7 @@
     <option name="version" value="2.7.0" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="cd8bdd" />
+    <option name="accentColor" value="009688" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
@@ -18,5 +18,6 @@
     <option name="allowDataCollection" value="true" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
