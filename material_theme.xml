@@ -1,10 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.7.0" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FF9800" />
+    <option name="accentColor" value="ab47bc" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,6 +19,5 @@
     <option name="allowDataCollection" value="true" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
-    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
