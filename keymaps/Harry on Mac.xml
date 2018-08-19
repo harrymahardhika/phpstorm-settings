@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
