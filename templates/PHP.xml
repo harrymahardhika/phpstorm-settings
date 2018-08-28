@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="foreb" value="@foreach($iterables$ as $value$)&#10;@endforeach" description="blade foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="iterables" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
