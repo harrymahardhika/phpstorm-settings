@@ -1,0 +1,21 @@
+<templateSet group="Laravel Blade">
+  <template name="foreb" value="@foreach($iterables$ as $value$)&#10;@endforeach" description="blade foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="iterables" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ifb" value="@if ($condition$)&#10;@endif" description="blade if" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="condition" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ifbl" value="@if ($condition$) @endif" description="blade if" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="phpSuggestFunctionParameter()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
