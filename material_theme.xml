@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -20,6 +19,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="133e28fa:16420843e5f:-7fff" />
-    <option name="version" value="3.0.0-rc4" />
+    <option name="version" value="3.1.0" />
   </component>
 </application>
