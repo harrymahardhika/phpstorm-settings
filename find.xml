@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Services/ScheduleSearcher.php [web]'" />
-    <option name="defaultScopeName" value="File '.../app/Services/ScheduleSearcher.php [web]'" />
+    <option name="customScope" value="File '.../app/Services/Schedule/ScheduleSearcher.php [web]'" />
+    <option name="defaultScopeName" value="File '.../app/Services/Schedule/ScheduleSearcher.php [web]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/ScheduleSearcher.php [web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Services/Schedule/ScheduleSearcher.php [web]'" />
   </component>
 </application>
