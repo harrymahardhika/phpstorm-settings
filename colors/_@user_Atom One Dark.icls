@@ -4,7 +4,7 @@
     <property name="created">2019-01-12T11:17:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-15T11:24:14</property>
+    <property name="modified">2019-01-15T23:59:50</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -2595,6 +2595,7 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
