@@ -4,7 +4,7 @@
     <property name="created">2019-01-12T11:17:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-13T01:32:18</property>
+    <property name="modified">2019-01-15T11:24:14</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -2563,6 +2563,9 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value />
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="e06c75" />
@@ -2592,7 +2595,6 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2669,7 +2671,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -2728,7 +2729,6 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
