@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Library/KemehubAPI/PassengerManifest.php [get-api]'" />
-    <option name="defaultScopeName" value="File '.../app/Library/KemehubAPI/PassengerManifest.php [get-api]'" />
+    <option name="customScope" value="File '.../app/Services/Email.php [attendance-system]'" />
+    <option name="defaultScopeName" value="File '.../app/Services/Email.php [attendance-system]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Library/KemehubAPI/PassengerManifest.php [get-api]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Services/Email.php [attendance-system]'" />
   </component>
 </application>
