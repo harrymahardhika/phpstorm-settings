@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="for" value="for ($i = 0; $i &lt; 10; $i++) {&#10;}" description="for loop" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
