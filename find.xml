@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Library/KemehubAPI/AbstractKemenhubAPI.php [get-api]'" />
-    <option name="defaultScopeName" value="File '.../app/Library/KemehubAPI/AbstractKemenhubAPI.php [get-api]'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/Api/PushManifestController.php [web]'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Api/PushManifestController.php [web]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Library/KemehubAPI/AbstractKemenhubAPI.php [get-api]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Api/PushManifestController.php [web]'" />
   </component>
 </application>
