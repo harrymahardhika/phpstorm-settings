@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="update" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="boarding-pass-agung" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
