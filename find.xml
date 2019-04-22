@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Traits/Enums/OrderStatus.php [smailing-web]'" />
-    <option name="defaultScopeName" value="File '.../app/Traits/Enums/OrderStatus.php [smailing-web]'" />
+    <option name="customScope" value="File '.../database/migrations/2019_02_20_010239_add_column_uuid.php [eticket-server]'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2019_02_20_010239_add_column_uuid.php [eticket-server]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Traits/Enums/OrderStatus.php [smailing-web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_02_20_010239_add_column_uuid.php [eticket-server]'" />
   </component>
 </application>
