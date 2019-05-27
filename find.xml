@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../app/Transformers/UserTransformer.php [server]'" />
+    <option name="defaultScopeName" value="File '.../app/Transformers/UserTransformer.php [server]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Transformers/UserTransformer.php [server]'" />
+  </component>
+</application>
