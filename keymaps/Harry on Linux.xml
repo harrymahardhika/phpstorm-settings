@@ -16,12 +16,14 @@
   </action>
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnVisibility" />
+  <action id="CopyPaths" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="DumpLookupElementWeights" />
