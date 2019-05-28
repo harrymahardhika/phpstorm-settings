@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -67,6 +70,7 @@
   <action id="Laravel.ExtractPartialView" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
@@ -77,6 +81,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickImplementations" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
