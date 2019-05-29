@@ -62,6 +62,8 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceConstant" />
   <action id="IntroduceParameter" />
@@ -84,9 +86,13 @@
   </action>
   <action id="ParameterInfo" />
   <action id="QuickImplementations" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt f3" />
