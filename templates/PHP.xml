@@ -4,4 +4,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ltrans" value="try {&#10;    DB::beginTransaction();&#10;    &#10;    DB::commit();&#10;} catch (\Exception $e) {&#10;    DB::rollBack();&#10;    throw new \Exception($e-&gt;getMessage());&#10;}" description="Laravel DB Transaction" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
