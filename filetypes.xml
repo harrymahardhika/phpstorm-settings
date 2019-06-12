@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="update" type="Bash" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="*.php_cs.dist" type="PHP" />
+      <mapping pattern="phpmd" type="PLAIN_TEXT" />
       <mapping pattern="boarding-pass-agung" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="update" type="Bash" />
     </extensionMap>
   </component>
 </application>
