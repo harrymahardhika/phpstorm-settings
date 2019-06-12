@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../app/Constants [server]'" />
-    <option name="defaultScopeName" value="Directory '.../app/Constants [server]'" />
+    <option name="customScope" value="File '.../database/migrations/2019_05_30_101315_create_payments_table.php [server]'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2019_05_30_101315_create_payments_table.php [server]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../app/Constants [server]'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_05_30_101315_create_payments_table.php [server]'" />
   </component>
 </application>
