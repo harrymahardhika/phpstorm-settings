@@ -109,6 +109,9 @@
   <action id="ToggleMainMenuAction">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
+  <action id="Tool_External Tools_php-cs-fixer file">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="ctrl f" />
