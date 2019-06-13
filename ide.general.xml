@@ -17,6 +17,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="743" />
+    <entry key="ide.tooltip.initialDelay" value="528" />
   </component>
 </application>
