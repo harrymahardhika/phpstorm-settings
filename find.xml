@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/seeds/PermissionSeeder.php [anchorage-plus]'" />
-    <option name="defaultScopeName" value="File '.../database/seeds/PermissionSeeder.php [anchorage-plus]'" />
+    <option name="customScope" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/seeds/PermissionSeeder.php [anchorage-plus]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
   </component>
 </application>
