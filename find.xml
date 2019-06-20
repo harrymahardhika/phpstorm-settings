@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../database/factories [anchorage-plus]'" />
-    <option name="defaultScopeName" value="Directory '.../database/factories [anchorage-plus]'" />
+    <option name="customScope" value="File '.../tests/Feature/Http/OperatorTest.php [anchorage-plus]'" />
+    <option name="defaultScopeName" value="File '.../tests/Feature/Http/OperatorTest.php [anchorage-plus]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../database/factories [anchorage-plus]'" />
+    <option name="SEARCH_SCOPE" value="File '.../tests/Feature/Http/OperatorTest.php [anchorage-plus]'" />
   </component>
 </application>
