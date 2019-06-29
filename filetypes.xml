@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.php_cs.dist" type="PHP" />
       <mapping pattern="phpmd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="boarding-pass-agung" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
