@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Services/User/UserProcess.php [eticket-server]'" />
-    <option name="defaultScopeName" value="File '.../app/Services/User/UserProcess.php [eticket-server]'" />
+    <option name="customScope" value="File '.../app/Helpers/Managers/ScheduleManager.php [eticket-server]'" />
+    <option name="defaultScopeName" value="File '.../app/Helpers/Managers/ScheduleManager.php [eticket-server]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/User/UserProcess.php [eticket-server]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Helpers/Managers/ScheduleManager.php [eticket-server]'" />
   </component>
 </application>
