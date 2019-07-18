@@ -2,4 +2,7 @@
   <component name="ShowUsagesSettings">
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
+  <component name="UsageViewSettings">
+    <option name="FLATTEN_MODULES" value="false" />
+  </component>
 </application>
