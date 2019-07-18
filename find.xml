@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="app" />
-    <option name="defaultScopeName" value="app" />
-    <option name="SEARCH_SCOPE" value="app" />
+    <option name="customScope" value="File '.../app/Product.php [sindo-web]'" />
+    <option name="defaultScopeName" value="File '.../app/Product.php [sindo-web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Product.php [sindo-web]'" />
   </component>
 </application>
