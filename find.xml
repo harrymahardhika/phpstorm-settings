@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Models/Voyage.php [anchorage-plus]'" />
-    <option name="defaultScopeName" value="File '.../app/Models/Voyage.php [anchorage-plus]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Models/Voyage.php [anchorage-plus]'" />
+    <option name="customScope" value="File '.../app/Console/Commands/Autosync/SyncDownOrder.php [eticket-client-1]'" />
+    <option name="defaultScopeName" value="File '.../app/Console/Commands/Autosync/SyncDownOrder.php [eticket-client-1]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Console/Commands/Autosync/SyncDownOrder.php [eticket-client-1]'" />
   </component>
 </application>
