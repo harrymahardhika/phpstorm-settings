@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Kernel.php [anchorage-plus]'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/HomeController.php [laravel-journal]'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/HomeController.php [laravel-journal]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/HomeController.php [laravel-journal]'" />
   </component>
 </application>
