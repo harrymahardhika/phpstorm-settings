@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Services/Passenger/PassengerObserver.php [eticket-server]'" />
-    <option name="defaultScopeName" value="File '.../app/Services/Passenger/PassengerObserver.php [eticket-server]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/Passenger/PassengerObserver.php [eticket-server]'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/Web/SailAvailabilityController.php [eticket-server]'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Web/SailAvailabilityController.php [eticket-server]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Web/SailAvailabilityController.php [eticket-server]'" />
   </component>
 </application>
