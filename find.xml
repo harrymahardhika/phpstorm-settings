@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Services/FerryOperator/FerryOperatorProcess.php'" />
-    <option name="defaultScopeName" value="File '.../app/Services/FerryOperator/FerryOperatorProcess.php'" />
+    <option name="customScope" value="File '.../app/Models/Traits/IconPath.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/Traits/IconPath.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/FerryOperator/FerryOperatorProcess.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/Traits/IconPath.php'" />
   </component>
 </application>
