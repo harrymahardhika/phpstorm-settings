@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Http/Middleware/APIResponse.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Middleware/APIResponse.php'" />
+    <option name="customScope" value="File '.../config/fractal.php'" />
+    <option name="defaultScopeName" value="File '.../config/fractal.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Middleware/APIResponse.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../config/fractal.php'" />
   </component>
 </application>
