@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Http/Controllers/Web/OrderController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Web/OrderController.php'" />
+    <option name="customScope" value="File '.../app/Transformers/OrderTransformer.php'" />
+    <option name="defaultScopeName" value="File '.../app/Transformers/OrderTransformer.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Web/OrderController.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Transformers/OrderTransformer.php'" />
   </component>
 </application>
