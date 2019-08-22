@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/migrations/2019_08_22_161027_create_cities_table.php'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2019_08_22_161027_create_cities_table.php'" />
+    <option name="customScope" value="File '.../app/Models/FeaturedImage.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/FeaturedImage.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_08_22_161027_create_cities_table.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/FeaturedImage.php'" />
   </component>
 </application>
