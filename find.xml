@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Http/Kernel.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Kernel.php'" />
+    <option name="customScope" value="File '.../app/Models/Country.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/Country.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Kernel.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/Country.php'" />
   </component>
 </application>
