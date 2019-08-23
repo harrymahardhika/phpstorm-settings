@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Models/Country.php'" />
-    <option name="defaultScopeName" value="File '.../app/Models/Country.php'" />
+    <option name="customScope" value="File '.../database/migrations/2019_08_23_163128_create_countries_table.php'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2019_08_23_163128_create_countries_table.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Models/Country.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_08_23_163128_create_countries_table.php'" />
   </component>
 </application>
