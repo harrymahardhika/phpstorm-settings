@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/ParticipantController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/ParticipantController.php'" />
+    <option name="customScope" value="File '.../app/Exceptions/Handler.php'" />
+    <option name="defaultScopeName" value="File '.../app/Exceptions/Handler.php'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/ParticipantController.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Exceptions/Handler.php'" />
   </component>
 </application>
