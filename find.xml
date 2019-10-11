@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/ParticipantRegistrationController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/ParticipantRegistrationController.php'" />
+    <option name="customScope" value="Project 'laravel-winpay'" />
+    <option name="defaultScopeName" value="Project 'laravel-winpay'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/ParticipantRegistrationController.php'" />
+    <option name="SEARCH_SCOPE" value="Project 'laravel-winpay'" />
   </component>
 </application>
