@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../database/migrations/2019_10_11_160342_alter_table_operators_add_column_is_active.php'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2019_10_11_160342_alter_table_operators_add_column_is_active.php'" />
+    <option name="customScope" value="File '.../app/Exceptions/InactiveOperatorException.php'" />
+    <option name="defaultScopeName" value="File '.../app/Exceptions/InactiveOperatorException.php'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_10_11_160342_alter_table_operators_add_column_is_active.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Exceptions/InactiveOperatorException.php'" />
   </component>
 </application>
