@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/migrations/2019_10_18_183801_alter_table_order_cancellations_add_column_active.php'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2019_10_18_183801_alter_table_order_cancellations_add_column_active.php'" />
+    <option name="customScope" value="File '.../app/ParticipationType.php'" />
+    <option name="defaultScopeName" value="File '.../app/ParticipationType.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2019_10_18_183801_alter_table_order_cancellations_add_column_active.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/ParticipationType.php'" />
   </component>
 </application>
