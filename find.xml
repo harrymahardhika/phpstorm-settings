@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Exceptions/DropsipinException.php'" />
-    <option name="defaultScopeName" value="File '.../app/Exceptions/DropsipinException.php'" />
+    <option name="customScope" value="File '.../app/Helpers/DropsipinNavigation.php'" />
+    <option name="defaultScopeName" value="File '.../app/Helpers/DropsipinNavigation.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Exceptions/DropsipinException.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Helpers/DropsipinNavigation.php'" />
   </component>
 </application>
