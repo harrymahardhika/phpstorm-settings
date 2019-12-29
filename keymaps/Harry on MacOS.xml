@@ -99,5 +99,6 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.CopyWatch" />
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
