@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/factories/BrandFactory.php'" />
-    <option name="defaultScopeName" value="File '.../database/factories/BrandFactory.php'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/Admin/BrandController.php'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Admin/BrandController.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/factories/BrandFactory.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Admin/BrandController.php'" />
   </component>
 </application>
