@@ -15,6 +15,7 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="useHollowFolders" value="false" />
     <option name="customSidebarHeight" value="20" />
     <option name="treeFontSize" value="11" />
     <option name="indicatorThickness" value="4" />
