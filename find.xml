@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/ChangeAdminPasswordController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/ChangeAdminPasswordController.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/ChangeAdminPasswordController.php'" />
+    <option name="customScope" value="File '.../routes/web.php'" />
+    <option name="defaultScopeName" value="File '.../routes/web.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../routes/web.php'" />
   </component>
 </application>
