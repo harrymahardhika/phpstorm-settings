@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/Feature/Http/Settings/SecurityTest.php'" />
-    <option name="defaultScopeName" value="File '.../tests/Feature/Http/Settings/SecurityTest.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/Feature/Http/Settings/SecurityTest.php'" />
+    <option name="customScope" value="File '.../app/Models/Order.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/Order.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/Order.php'" />
   </component>
 </application>
