@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/Web/MerchantController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Web/MerchantController.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Web/MerchantController.php'" />
+    <option name="customScope" value="File '.../app/Services/Order/OrderException.php'" />
+    <option name="defaultScopeName" value="File '.../app/Services/Order/OrderException.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Services/Order/OrderException.php'" />
   </component>
 </application>
