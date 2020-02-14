@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/API/UserController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/API/UserController.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/API/UserController.php'" />
+    <option name="customScope" value="File '.../app/User.php'" />
+    <option name="defaultScopeName" value="File '.../app/User.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/User.php'" />
   </component>
 </application>
