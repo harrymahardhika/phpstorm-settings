@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../config/imagecache.php'" />
-    <option name="defaultScopeName" value="File '.../config/imagecache.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../config/imagecache.php'" />
+    <option name="customScope" value="File '.../app/Helpers/Support/Currency.php'" />
+    <option name="defaultScopeName" value="File '.../app/Helpers/Support/Currency.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Helpers/Support/Currency.php'" />
   </component>
 </application>
