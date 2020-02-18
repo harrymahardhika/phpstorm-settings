@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Jobs/GenerateFeeInvoice.php'" />
-    <option name="defaultScopeName" value="File '.../app/Jobs/GenerateFeeInvoice.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Jobs/GenerateFeeInvoice.php'" />
+    <option name="customScope" value="File '.../app/Models/FeeInvoice.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/FeeInvoice.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/FeeInvoice.php'" />
   </component>
 </application>
