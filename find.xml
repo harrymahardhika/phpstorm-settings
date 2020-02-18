@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Services/FeeMarlin/ReportFilter.php'" />
-    <option name="defaultScopeName" value="File '.../app/Services/FeeMarlin/ReportFilter.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/FeeMarlin/ReportFilter.php'" />
+    <option name="customScope" value="File '.../app/Console/Commands/GenerateInvoice.php'" />
+    <option name="defaultScopeName" value="File '.../app/Console/Commands/GenerateInvoice.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Console/Commands/GenerateInvoice.php'" />
   </component>
 </application>
