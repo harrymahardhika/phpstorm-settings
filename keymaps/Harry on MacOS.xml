@@ -1,7 +1,4 @@
 <keymap version="1" name="Harry on MacOS" parent="Mac OS X 10.5+">
-  <action id="ActivateCoverageToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
