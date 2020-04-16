@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Models/User.php'" />
-    <option name="defaultScopeName" value="File '.../app/Models/User.php'" />
+    <option name="customScope" value="File '.../tests/Feature/OrderEventsTest.php'" />
+    <option name="defaultScopeName" value="File '.../tests/Feature/OrderEventsTest.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,6 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Models/User.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../tests/Feature/OrderEventsTest.php'" />
   </component>
 </application>
