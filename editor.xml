@@ -5,7 +5,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="MesloLGM Nerd Font" />
+    <option name="FONT_FAMILY" value="MesloLGS NF" />
+    <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
