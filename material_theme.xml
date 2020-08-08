@@ -22,8 +22,6 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
-    <option name="customSidebarHeight" value="20" />
-    <option name="treeFontSize" value="11" />
     <option name="indicatorThickness" value="3" />
     <option name="leftTreeIndent" value="1" />
     <option name="rightTreeIndent" value="1" />
