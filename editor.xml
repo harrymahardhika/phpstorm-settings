@@ -4,8 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="MesloLGS NF" />
+    <option name="FONT_FAMILY" value="Monaco Nerd Font Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
