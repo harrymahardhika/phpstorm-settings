@@ -17,11 +17,11 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.20/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.20/bin/php" path_separator=":" version="7.3.20">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.21/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.21/bin/php" path_separator=":" version="7.3.21">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.20/share/php@7.3/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.21/share/php@7.3/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -70,6 +70,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
