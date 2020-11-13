@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/Http/Controllers/Admin/OrderController.php'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Admin/OrderController.php'" />
+    <option name="customScope" value="File '.../database/migrations/2020_11_12_213116_alter_table_orders_add_column_via.php'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2020_11_12_213116_alter_table_orders_add_column_via.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Admin/OrderController.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2020_11_12_213116_alter_table_orders_add_column_via.php'" />
   </component>
 </application>
