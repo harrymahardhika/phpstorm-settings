@@ -9,4 +9,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="test" value="/** @test */&#10;public function $NAMES$(){}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAMES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
