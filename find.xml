@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/factories/InvoiceFactory.php'" />
-    <option name="defaultScopeName" value="File '.../database/factories/InvoiceFactory.php'" />
+    <option name="customScope" value="File '.../database/migrations/2021_01_03_181012_create_invoices_table.php'" />
+    <option name="defaultScopeName" value="File '.../database/migrations/2021_01_03_181012_create_invoices_table.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/factories/InvoiceFactory.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2021_01_03_181012_create_invoices_table.php'" />
   </component>
 </application>
