@@ -1,6 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="JavaScript" />
       <blacklist language="PHP" />
     </blacklists>
   </component>
