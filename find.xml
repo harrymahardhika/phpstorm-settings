@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'shopee-scraps'" />
-    <option name="defaultScopeName" value="Project 'shopee-scraps'" />
+    <option name="customScope" value="File '.../packages/Concatenate/Marketo/src/routes.php'" />
+    <option name="defaultScopeName" value="File '.../packages/Concatenate/Marketo/src/routes.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'shopee-scraps'" />
+    <option name="SEARCH_SCOPE" value="File '.../packages/Concatenate/Marketo/src/routes.php'" />
   </component>
 </application>
