@@ -4,7 +4,8 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="SauceCodePro Nerd Font" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Hack Nerd Font" />
     <option name="LINE_SPACING" value="1.3" />
     <option name="USE_LIGATURES" value="true" />
   </component>
