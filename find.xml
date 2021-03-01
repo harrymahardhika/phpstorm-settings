@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/migrations/2021_03_01_193050_create_categories_table.php'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2021_03_01_193050_create_categories_table.php'" />
+    <option name="customScope" value="File '.../app/Http/Controllers/Admin/CategoryController.php'" />
+    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Admin/CategoryController.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2021_03_01_193050_create_categories_table.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Admin/CategoryController.php'" />
   </component>
 </application>
