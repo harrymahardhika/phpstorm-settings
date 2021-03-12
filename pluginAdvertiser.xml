@@ -110,6 +110,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cjsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.coffee">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.composerlog">
           <value>
             <plugin>
@@ -128,11 +146,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.css">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.css" />
               <option name="myPluginName" value="CSS" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.csv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -151,6 +187,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ddl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -178,6 +223,24 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dockerfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.doctrineql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php.dql" />
+              <option name="myPluginName" value="DQL" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -262,6 +325,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.feature">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gherkin" />
+              <option name="myPluginName" value="Gherkin" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -289,11 +361,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.haml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.haml" />
+              <option name="myPluginName" value="Haml" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hgignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="hg4idea" />
+              <option name="myPluginName" value="Mercurial" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -334,6 +424,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.http">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.icns">
           <value>
             <plugin>
@@ -352,11 +451,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ids">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ignore">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ijperf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.performancePlugin" />
+              <option name="myPluginName" value="Performance Testing" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -460,6 +577,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.tasks" />
+              <option name="myPluginName" value="Task Management" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jrxml">
           <value>
             <plugin>
@@ -559,6 +685,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.less">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.less" />
+              <option name="myPluginName" value="Less" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.litcoffee">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.coffeescript" />
+              <option name="myPluginName" value="CoffeeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -609,6 +753,15 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ng">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -757,6 +910,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.phpt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.php.phpt" />
+              <option name="myPluginName" value="PHPT Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.phtml">
           <value>
             <plugin>
@@ -780,6 +942,24 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.po">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -829,6 +1009,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rest">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rgbe">
           <value>
             <plugin>
@@ -852,6 +1041,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rst">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.rest" />
+              <option name="myPluginName" value="ReStructuredText" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -915,6 +1113,15 @@
             <plugin>
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -991,6 +1198,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tsv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tsx">
           <value>
             <plugin>
@@ -1000,11 +1216,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.twig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.twig" />
+              <option name="myPluginName" value="Twig" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.txt">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.uml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.diagram" />
+              <option name="myPluginName" value="UML" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1259,6 +1493,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".htaccess">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.apacheConfig" />
+              <option name="myPluginName" value="Apache config (.htaccess)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".jshintignore">
           <value>
             <plugin>
@@ -1331,6 +1574,51 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Dockerfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.fast-jar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jlink">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jvm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.native">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -1354,6 +1642,15 @@
             <plugin>
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="http-client.cookies">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1385,7 +1682,43 @@
             </plugin>
           </value>
         </entry>
+        <entry key="tsconfig.app.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.e2e.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="tsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.lib.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.spec.json">
           <value>
             <plugin>
               <option name="myPluginId" value="JavaScript" />
@@ -1419,6 +1752,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="CodeceptionConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" />
+                    </value>
+                  </entry>
                   <entry key="ComposerRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" />
@@ -1429,9 +1767,19 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="DatabaseScript">
+                    <value>
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="HttpClient.HttpRequestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -1469,6 +1817,11 @@
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="PhpBehatConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" />
+                    </value>
+                  </entry>
                   <entry key="PhpBuiltInWebServerConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Built-in Web Server" pluginName="PHP" pluginId="com.jetbrains.php" />
@@ -1489,6 +1842,11 @@
                       <FeaturePluginData displayName="PHP Remote Debug" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="PhpSpecConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" />
+                    </value>
+                  </entry>
                   <entry key="PhpWebAppRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" />
@@ -1502,6 +1860,26 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="TSqltConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="UtPlSqlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
