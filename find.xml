@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../packages/Pasar20/RapidDeal/src/Models'" />
-    <option name="defaultScopeName" value="Directory '.../packages/Pasar20/RapidDeal/src/Models'" />
+    <option name="customScope" value="File '.../packages/Pasar20/RapidDeal/tests/TestCase.php'" />
+    <option name="defaultScopeName" value="File '.../packages/Pasar20/RapidDeal/tests/TestCase.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../packages/Pasar20/RapidDeal/src/Models'" />
+    <option name="SEARCH_SCOPE" value="File '.../packages/Pasar20/RapidDeal/tests/TestCase.php'" />
   </component>
 </application>
