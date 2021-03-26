@@ -4,7 +4,7 @@
     <property name="created">2021-01-06T15:56:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-03-26T23:26:54</property>
+    <property name="modified">2021-03-26T23:52:03</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -595,7 +595,6 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -631,7 +630,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="61aeef" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -2850,7 +2848,6 @@
     <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="98c379" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
