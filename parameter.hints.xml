@@ -4,5 +4,6 @@
       <blacklist language="JavaScript" />
       <blacklist language="PHP" />
     </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
