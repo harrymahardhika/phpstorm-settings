@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../packages/Pasar20/RapidDeal/tests/CartRequestTest.php'" />
-    <option name="defaultScopeName" value="File '.../packages/Pasar20/RapidDeal/tests/CartRequestTest.php'" />
+    <option name="customScope" value="File '.../packages/Pasar20/RapidDeal/src/Http/Controllers/App/HomeController.php'" />
+    <option name="defaultScopeName" value="File '.../packages/Pasar20/RapidDeal/src/Http/Controllers/App/HomeController.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../packages/Pasar20/RapidDeal/tests/CartRequestTest.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../packages/Pasar20/RapidDeal/src/Http/Controllers/App/HomeController.php'" />
   </component>
 </application>
