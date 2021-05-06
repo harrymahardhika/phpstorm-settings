@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'rapid-deal-store'" />
-    <option name="defaultScopeName" value="Project 'rapid-deal-store'" />
+    <option name="customScope" value="File '.../src/Repositories/ItemRepository.php'" />
+    <option name="defaultScopeName" value="File '.../src/Repositories/ItemRepository.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'rapid-deal-store'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/Repositories/ItemRepository.php'" />
   </component>
 </application>
