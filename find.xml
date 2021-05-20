@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../src/functions.php'" />
-    <option name="defaultScopeName" value="File '.../src/functions.php'" />
+    <option name="customScope" value="File '.../src/Models/AreaDistrict.php'" />
+    <option name="defaultScopeName" value="File '.../src/Models/AreaDistrict.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/functions.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/Models/AreaDistrict.php'" />
   </component>
 </application>
