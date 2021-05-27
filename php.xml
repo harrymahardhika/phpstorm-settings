@@ -169,6 +169,5 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="findUsagesOfBaseMethod" value="true" />
     <option name="promptFindUsagesOfBaseMethod" value="false" />
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
