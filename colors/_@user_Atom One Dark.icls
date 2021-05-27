@@ -4,7 +4,7 @@
     <property name="created">2019-01-12T11:17:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-05-27T10:01:50</property>
+    <property name="modified">2021-05-27T10:03:42</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas NF" />
@@ -65,6 +65,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="TOOLTIP" value="3a3f4b" />
@@ -73,7 +74,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="" />
+    <option name="VISUAL_INDENT_GUIDE" value="21252b" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
