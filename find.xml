@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/factories/PaymentConfirmationFactory.php'" />
-    <option name="defaultScopeName" value="File '.../database/factories/PaymentConfirmationFactory.php'" />
+    <option name="customScope" value="File '.../routes/app.php'" />
+    <option name="defaultScopeName" value="File '.../routes/app.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/factories/PaymentConfirmationFactory.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../routes/app.php'" />
   </component>
 </application>
