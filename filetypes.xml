@@ -6,6 +6,7 @@
       <mapping ext="stub" type="PHP" />
       <mapping pattern="reset_app" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping pattern=".stub" approved="true" type=".stub" />
     </extensionMap>
   </component>
