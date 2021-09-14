@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…/app/Actions/SetPrimaryAddress.php'" />
-    <option name="defaultScopeName" value="File '…/app/Actions/SetPrimaryAddress.php'" />
+    <option name="customScope" value="File '…/database/migrations/2021_09_05_112603_create_inventory_receipts_table.php'" />
+    <option name="defaultScopeName" value="File '…/database/migrations/2021_09_05_112603_create_inventory_receipts_table.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/app/Actions/SetPrimaryAddress.php'" />
+    <option name="SEARCH_SCOPE" value="File '…/database/migrations/2021_09_05_112603_create_inventory_receipts_table.php'" />
   </component>
 </application>
