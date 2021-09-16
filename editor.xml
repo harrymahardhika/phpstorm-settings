@@ -34,6 +34,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
@@ -57,6 +58,9 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
