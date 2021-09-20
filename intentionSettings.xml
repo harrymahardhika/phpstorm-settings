@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Microservices/Open in web browser" />
+  </component>
+</application>
