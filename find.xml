@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…/database/migrations/2021_09_24_055406_alter_table_books_add_column_instansi_id.php'" />
-    <option name="defaultScopeName" value="File '…/database/migrations/2021_09_24_055406_alter_table_books_add_column_instansi_id.php'" />
+    <option name="customScope" value="File '…/app/Http/Controllers/VisitorController.php'" />
+    <option name="defaultScopeName" value="File '…/app/Http/Controllers/VisitorController.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/database/migrations/2021_09_24_055406_alter_table_books_add_column_instansi_id.php'" />
+    <option name="SEARCH_SCOPE" value="File '…/app/Http/Controllers/VisitorController.php'" />
   </component>
 </application>
