@@ -3,7 +3,7 @@
     <property name="created">2021-05-03T23:49:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-10-02T23:45:08</property>
+    <property name="modified">2021-10-05T20:56:09</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -34,7 +34,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="2bbac5" />
     <option name="HTML_TAG_TREE_LEVEL4" value="61afef" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d55fde" />
-    <option name="INDENT_GUIDE" value="3b4048" />
+    <option name="INDENT_GUIDE" value="" />
     <option name="INFORMATION_HINT" value="3d424b" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
@@ -42,8 +42,8 @@
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
-    <option name="RIGHT_MARGIN_COLOR" value="4b4b4b" />
-    <option name="SELECTED_INDENT_GUIDE" value="606368" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="404859" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
@@ -910,7 +910,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -939,7 +939,7 @@
         <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
