@@ -1,11 +1,23 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…/app/Http/Controllers/API/PurchaseOrderPaymentController.php'" />
-    <option name="defaultScopeName" value="File '…/app/Http/Controllers/API/PurchaseOrderPaymentController.php'" />
+    <option name="customScope" value="File '…/tests/Feature/API/SalesOrderPaymentTest.php'" />
+    <option name="defaultScopeName" value="File '…/tests/Feature/API/SalesOrderPaymentTest.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/app/Http/Controllers/API/PurchaseOrderPaymentController.php'" />
+    <option name="SEARCH_SCOPE" value="File '…/tests/Feature/API/SalesOrderPaymentTest.php'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.stub</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
   </component>
 </application>
