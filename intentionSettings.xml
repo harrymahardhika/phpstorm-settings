@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Database/Run query in console" />
     <ignoreAction name="Microservices/Open in web browser" />
+    <ignoreAction name="HTML/Update image size" />
   </component>
 </application>
