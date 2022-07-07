@@ -20,7 +20,6 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CodeCompletion">
@@ -131,6 +130,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleMainMenuAction">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
