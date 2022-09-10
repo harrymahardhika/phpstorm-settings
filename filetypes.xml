@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="getcsv" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="reset_app" type="PLAIN_TEXT" />
       <mapping ext="jon" type="PLAIN_TEXT" />
