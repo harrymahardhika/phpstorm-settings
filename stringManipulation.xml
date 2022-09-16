@@ -61,7 +61,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordLowercaseOrToCamelCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToScreamingSnakeCaseOrCamelCaseAction" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />
