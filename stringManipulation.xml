@@ -61,7 +61,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSentenceCaseOrCamelCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveNewLinesAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
