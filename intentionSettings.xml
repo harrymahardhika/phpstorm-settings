@@ -3,5 +3,21 @@
     <ignoreAction name="Database/Run query in console" />
     <ignoreAction name="Microservices/Open in web browser" />
     <ignoreAction name="HTML/Update image size" />
+    <ignoreAction name="LightEdit mode/Open file in project..." />
+    <ignoreAction name="React/Convert to class component" />
+    <ignoreAction name="React/Convert to function component" />
+    <ignoreAction name="XML/Add 'xsi:schemaLocation' attribute" />
+    <ignoreAction name="XML/Choose color" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Convert CDATA to text" />
+    <ignoreAction name="XML/Convert text to CDATA" />
+    <ignoreAction name="XML/Fetch external resource" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Manually set up external resource" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Remove tag (preserves children)" />
+    <ignoreAction name="XML/Reset to default namespace" />
+    <ignoreAction name="XML/Split current tag" />
   </component>
 </application>
