@@ -93,7 +93,12 @@
       <path value="RunContextGroupInner" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.ShowBranches" is_action="true" action_type="1" position="2">
+    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.ShowBranches" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
