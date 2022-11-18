@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/app/Providers'" />
-    <option name="defaultScopeName" value="Directory '…/app/Providers'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/app/Providers'" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
