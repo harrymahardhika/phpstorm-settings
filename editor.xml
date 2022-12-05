@@ -6,6 +6,22 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -33,7 +49,6 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
@@ -52,7 +67,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
