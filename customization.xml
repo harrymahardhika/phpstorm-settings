@@ -60,11 +60,6 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -92,11 +87,15 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="4">
+    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="3">
       <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToolbarActions" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StopWithDropDown" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <path value="RunToolbarWidgetCustomizableActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="3">
@@ -122,6 +121,11 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -130,15 +134,6 @@
     </group>
     <group value="MainToolbarLeft" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="DebugClass" is_group="true" forse_popup="false" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Popup Menu" />
-      <path value="Project View Popup Menu Run Group" />
-      <path value="Run Configurations" />
-      <path value="RunContextGroup" />
-      <path value="RunContextGroupInner" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Debug" is_action="true" action_type="-1" position="1">
