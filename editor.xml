@@ -16,8 +16,6 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
-        <option value="inheritors" />
-        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -68,7 +66,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
