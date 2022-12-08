@@ -14,12 +14,12 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="vcs.code.vision" />
       </set>
     </option>
-    <option name="enabled" value="false" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -60,13 +60,10 @@
         <option value="JSON.composer.package.version.hints" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
-        <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
-        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value=".inheritors" />
+    <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old.js.param.hints.show.names.for.tagged" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
@@ -75,7 +72,9 @@
       </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
-          <option name="showForInferredParameters" value="false" />
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
