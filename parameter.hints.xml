@@ -10,8 +10,9 @@
     <option id="js.param.hints.show.names.for.tagged" value="false" />
     <option id="php.pass.by.reference" value="false" />
     <disabledLanguages>
-      <language id="JavaScript" />
+      <language id="TypeScript" />
       <language id="Vue" />
+      <language id="JavaScript" />
       <language id="PHP" />
     </disabledLanguages>
   </component>

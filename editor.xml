@@ -60,10 +60,12 @@
         <option value="JSON.composer.package.version.hints" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old.js.param.hints.show.names.for.tagged" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
@@ -72,9 +74,7 @@
       </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
