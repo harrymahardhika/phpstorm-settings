@@ -20,12 +20,6 @@
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="StopWithDropDown" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar Right" />
-      <path value="RunToolbarWidgetCustomizableActionGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -56,6 +50,16 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="main.toolbar.git.Branches" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunToolbarWidgetCustomizableActionGroup" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Debug" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -63,10 +67,14 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="0">
+    <group value="main.toolbar.Project" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar Right" />
-      <path value="RunToolbarWidgetCustomizableActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="VcsToolbarLabelAction" is_action="true" action_type="-1" position="0">
