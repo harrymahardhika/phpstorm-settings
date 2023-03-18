@@ -27,7 +27,6 @@
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="git" value="true" />
         <entry key="php.debug.status.widget" value="false" />
-        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
