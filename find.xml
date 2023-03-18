@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '…/assets/ts/Domains'" />
-    <option name="defaultScopeName" value="Directory '…/assets/ts/Domains'" />
+    <option name="customScope" value="ts" />
+    <option name="defaultScopeName" value="ts" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/assets/ts/Domains'" />
+    <option name="SEARCH_SCOPE" value="ts" />
     <option name="FILE_MASK" value="*.vue, *.ts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
