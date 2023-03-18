@@ -61,9 +61,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
-        <option name="description" value="To camelCase" />
-        <option name="textWithMnemonic" value="To camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.ShuffleCharactersAction" />
+        <option name="description" value="" />
+        <option name="textWithMnemonic" value="Shuffle Characters" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
@@ -76,6 +76,15 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="separators">
+          <list>
+            <option value="|" />
+          </list>
+        </option>
+      </SortTokensModel>
     </option>
     <option name="version" value="2" />
   </component>
