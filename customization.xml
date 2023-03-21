@@ -200,6 +200,7 @@
     <action id="ShowLiveRunConfigurations" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="ImportTests" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="editRunConfigurations" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="RunConfiguration" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="ManageTargets" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
