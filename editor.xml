@@ -82,8 +82,7 @@
     <option name="CONVERT_HTML_TO_JSX" value="false" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
