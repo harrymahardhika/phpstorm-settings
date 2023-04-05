@@ -22,13 +22,25 @@
     </option>
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
-        <entry key="js.chain.hints" value="true" />
-        <entry key="js.type.hints" value="true" />
-        <entry key="ts.chain.hints" value="true" />
-        <entry key="ts.enum.hints" value="true" />
-        <entry key="ts.type.hints" value="true" />
+        <entry key="js.chain.hints" value="false" />
+        <entry key="js.type.hints" value="false" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
       </map>
     </option>
   </component>
@@ -76,7 +88,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
