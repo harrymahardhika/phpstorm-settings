@@ -13,6 +13,8 @@
       <language id="TypeScript" />
       <language id="Vue" />
       <language id="JavaScript" />
+      <language id="PHP" />
+      <language id="SQL" />
     </disabledLanguages>
   </component>
 </application>
