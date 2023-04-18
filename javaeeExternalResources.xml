@@ -4,6 +4,7 @@
     <resource url="https://schema.phpunit.de/10.0/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2022.3/extResources/4a917807_phpunit.xsd" />
     <resource url="https://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/.cache/JetBrains/PhpStorm2020.3/extResources/e8546028_phpunit.xsd" />
     <resource url="urn:metadata.tooling.soap.sforce.com" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+    <ignored-resource url="https://schema.phpunit.de/10.1/phpunit.xsd" />
     <ignored-resource url="https://schema.phpunit.de/9.3/phpunit.xsd" />
   </component>
 </application>
