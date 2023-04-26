@@ -61,9 +61,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
-        <option name="description" value="To lower case" />
-        <option name="textWithMnemonic" value="To lower case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToPascalCaseAction" />
+        <option name="description" value="To PascalCase" />
+        <option name="textWithMnemonic" value="To PascalCase" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
