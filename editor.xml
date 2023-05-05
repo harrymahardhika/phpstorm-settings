@@ -17,9 +17,12 @@
     <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="disabledOptions">
