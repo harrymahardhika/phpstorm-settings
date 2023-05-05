@@ -61,9 +61,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToKebabCaseAction" />
-        <option name="description" value="To kebab-case" />
-        <option name="textWithMnemonic" value="To kebab-case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="description" value="To lower case" />
+        <option name="textWithMnemonic" value="To lower case" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
