@@ -24,6 +24,7 @@
     </option>
     <option name="enabled" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="DeclarativeInlayHintsSettings">
     <option name="disabledOptions">
       <set>
