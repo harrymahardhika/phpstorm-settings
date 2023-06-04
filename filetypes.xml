@@ -5,6 +5,7 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="reset_app" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jon" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
