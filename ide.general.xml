@@ -24,6 +24,8 @@
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="VFS_REFRESH" value="true" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
         <entry key="git" value="true" />
         <entry key="php.debug.status.widget" value="false" />
       </map>
