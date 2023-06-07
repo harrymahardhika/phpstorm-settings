@@ -11,6 +11,7 @@
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_MAIN_MENU" value="false" />
     <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
