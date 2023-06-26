@@ -99,6 +99,11 @@
       <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewUiRunWidget" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Coverage" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Scope View Popup Menu" />
@@ -127,6 +132,7 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="editRunConfigurations" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="NewUiRunWidget" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
