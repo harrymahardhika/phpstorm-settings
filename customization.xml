@@ -99,11 +99,6 @@
       <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NewUiRunWidget" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Coverage" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Scope View Popup Menu" />
