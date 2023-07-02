@@ -61,9 +61,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
-        <option name="description" value="To snake_case" />
-        <option name="textWithMnemonic" value="To snakecase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
+        <option name="description" value="To camelCase" />
+        <option name="textWithMnemonic" value="To camelCase" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
