@@ -55,11 +55,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="main.toolbar.git.Branches" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar Right" />
@@ -70,16 +65,6 @@
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="main.toolbar.Project" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="main.toolbar.Filename" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
@@ -122,7 +107,5 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="editRunConfigurations" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
-    <action id="NewUiRunWidget" icon="jar:file:/home/harry/Application/PhpStorm-221.5921.28/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
