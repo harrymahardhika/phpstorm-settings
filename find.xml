@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="tests" />
-    <option name="defaultScopeName" value="tests" />
+    <option name="customScope" value="app" />
+    <option name="defaultScopeName" value="app" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="tests" />
+    <option name="SEARCH_SCOPE" value="app" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
