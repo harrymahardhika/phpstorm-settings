@@ -30,7 +30,6 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="SPACE_BEFORE_SHORT_CLOSURE_LEFT_PARENTHESIS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
-    <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
