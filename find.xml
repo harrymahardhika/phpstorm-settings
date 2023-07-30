@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="js" />
-    <option name="defaultScopeName" value="js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="js" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -21,8 +22,8 @@
     <mask>*blade.php</mask>
     <mask>.en*</mask>
     <mask>*.ts</mask>
-    <mask>*.vue, *.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.vue, *.ts</mask>
     <mask>*.php</mask>
   </component>
 </application>
